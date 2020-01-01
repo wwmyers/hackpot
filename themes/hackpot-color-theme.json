@@ -1,26 +1,21 @@
 //////////////////////////
 //	Naturized Colors	//
 //////////////////////////
-//	#222222 darkergreen	//
-// 	#282828 darkgreen	//
 // 	#1e621e green		//
 // 	#20B2AA lightblue	//
 // 	#ffff4d	yellow		//
 // 	#e15188 pink		//
 // 	#32CD32 brightgreen	//
 // 	#ffff99 tan			//
-// 	#b366ff lightpurple	//
+// 	#b366ff purple		//
 // 	#9F6934 brown		//
 // 	#268BD2 blue		//
 // 	#9de19d lightgreen	//
 // 	#ffb84d orange		//
 // 	#FF4500 redorange	//
-// 	#E0EDDD white		//
-// 	#eee8d5 offwhite	//
-//	#247524 dirtygreen	//
 //////////////////////////
 {
-	"name": "Naturized",
+	"name": "Hackpot",
 	"colors": {
 		"activityBarBadge.background": "#222222",
 		"activityBar.activeBorder": "#9F6934",
@@ -130,7 +125,7 @@
 	},
 	"tokenColors": [
 		{
-			"name": "Comment",
+			"name": "Green",
 			"scope": [
 				"comment",
 				"punctuation.definition.comment",
@@ -142,7 +137,17 @@
 			}
 		},
 		{
-			"name": "Your Variables",
+			"name": "Red Orange",
+			"scope": [
+				"markup.deleted",
+				"token.error-token"
+			],
+			"settings": {
+				"foreground": "#FF4500"
+			}
+		},
+		{
+			"name": "Tan",
 			"scope": [
 				"variable.other",
 				"variable.language",
@@ -156,7 +161,7 @@
 			}
 		},
 		{
-			"name": "Your Functions",
+			"name": "Bright Green",
 			"scope": [
 				"entity.name.function",
 				"entity.name.tag",
@@ -181,7 +186,7 @@
 			}
 		},
 		{
-			"name": "URL Link",
+			"name": "Blue",
 			"scope": [
 				"meta.function.url",
 				"markup.underline.link",
@@ -193,7 +198,7 @@
 			}
 		},
 		{
-			"name": "constants",
+			"name": "Yellow",
 			"scope": [
 				"constant.other",
 				"constant.language",
@@ -205,7 +210,7 @@
 			}
 		},
 		{
-			"name": "Numbers",
+			"name": "Pink",
 			"scope": [
 				"constant.numeric",
 			],
@@ -214,7 +219,7 @@
 			}
 		},
 		{
-			"name": "Quoted Strings",
+			"name": "Light Blue",
 			"scope": [
 				"string.quoted",
 				"punctuation.definition.string",
@@ -225,7 +230,7 @@
 			}
 		},
 		{
-			"name": "Built in Constants",
+			"name": "Purple",
 			"scope": [
 				"constant.character.escape",
 				"constant.other.placeholder",
@@ -240,7 +245,7 @@
 			}
 		},
 		{
-			"name": "Keywords",
+			"name": "Brown",
 			"scope": [
 				"keyword",
 				"storage.type.js",
@@ -254,7 +259,7 @@
 			}
 		},
 		{
-			"name": "Punctuation",
+			"name": "Orange",
 			"scope": [
 				"punctuation",
 				"keyword.operator",
@@ -268,7 +273,7 @@
 			}
 		},
 		{
-			"name": "Variables Python Markdown",
+			"name": "Light Green",
 			"scope": [
 				"meta.embedded.block",
 				"meta.function-call.arguments"

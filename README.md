@@ -1,6 +1,7 @@
 # Hackpot
-## My Naturized theme reimagined with my own syntax highlighting instead of using Solarized
-## My New Favorite :)
+## Welcome to the jungle!
+#### My Naturized theme reimagined with my own syntax highlighting instead of using Solarized
+### My New Favorite :)
 
 Preview in Go
 ![hackpotgo](https://github.com/wwmyers/hackpot/raw/master/images/hackpotgo.png)
@@ -19,7 +20,7 @@ Preview in Markdown
 
 ### Note:
 
-I'll keep Naturized up to date for those that prefer Solarized's syntax highlighting, but this is now my main project. If you notice any languages that currently aren't supported with this theme, please post the languages and I'll gladly add it.
+I'll keep Naturized up to date for those that prefer Solarized's syntax highlighting, but this is now my main project. If you notice any languages that currently aren't supported with this theme, please post the languages on my repo and I'll gladly add it.
 
 # Enjoy :)
 
