@@ -1,16 +1,25 @@
 # Hackpot
-## My Naturized theme reimagined with my own syntax highlighting instead of using Solarized :)
+## My Naturized theme reimagined with my own syntax highlighting instead of using Solarized
+## My New Favorite :)
 
 Preview in Go
-![naturizedgo](https://github.com/wwmyers/naturized/raw/master/images/hackpotgo.png)
+![hackpotgo](https://github.com/wwmyers/hackpot/raw/master/images/hackpotgo.png)
+
 Preview in Python
-![naturizedpy](https://github.com/wwmyers/naturized/raw/master/images/hackpotpy.png)
+![hackpotpy](https://github.com/wwmyers/hackpot/raw/master/images/hackpotpy.png)
+
 Preview in PHP
-![naturizedgo](https://github.com/wwmyers/naturized/raw/master/images/hackpotphp.png)
+![hackpotphp](https://github.com/wwmyers/hackpot/raw/master/images/hackpotphp.png)
+
 Preview in CSS
-![naturizedpy](https://github.com/wwmyers/naturized/raw/master/images/hackpotcss.png)
+![hackpotcss](https://github.com/wwmyers/hackpot/raw/master/images/hackpotcss.png)
+
 Preview in Markdown
-![naturizedpy](https://github.com/wwmyers/naturized/raw/master/images/hackpotmd.png)
+![hackpotmd](https://github.com/wwmyers/hackpot/raw/master/images/hackpotmd.png)
+
+### Note:
+
+I'll keep Naturized up to date for those that prefer Solarized's syntax highlighting, but this is now my main project. If you notice any languages that currently aren't supported with this theme, please post the languages and I'll gladly add it.
 
 # Enjoy :)
 
