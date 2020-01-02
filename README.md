@@ -1,5 +1,5 @@
 # Hackpot
-### Welcome to the jungle!
+### Imagine programming in the Garden of Eden
 ### My new favorite theme :)
 
 Preview in Go
