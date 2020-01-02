@@ -1,9 +1,11 @@
 # Change Log
 
-All notable changes to the "hackpot" extension will be documented in this file.
+#### All notable changes to the "Hackpot" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Jan 01 2020
+* Born!
 
-## [Unreleased]
-
-- Initial release
+### Jan 02 2020
+* Fixed credit link for icon
+* Modified preview
+* Started using changelog for updates
