@@ -7,14 +7,14 @@
     "repository": "https://github.com/wwmyers/hackpot",
     "license": "MIT",
     "keywords": [
-        "naturized",
         "jungle",
         "woods",
         "forest",
         "dark",
         "nature",
         "earth",
-        "green"
+        "green",
+        "hacker"
     ],
     "icon": "images/icon.png",
     "engines": {

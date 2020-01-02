@@ -266,7 +266,8 @@
 				"meta.brace",
 				"constant.character",
 				"markup.heading.setext",
-				"punctuation.definition.list"
+				"punctuation.definition.list",
+				"storage.type.function.arrow"
 			],
 			"settings": {
 				"foreground": "#ffb84d"
