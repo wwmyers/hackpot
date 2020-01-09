@@ -185,8 +185,7 @@
 		{
 			"name": "Yellow",
 			"scope": [
-				"constant.other",
-				"variable.other.constant",
+				"constant.language",
 				"entity.name.section.markdown"
 			],
 			"settings": {
@@ -222,7 +221,6 @@
 				"keyword.operator.address",
 				"keyword.operator.ellipsis",
 				"constant.character.entity",
-				"constant.language",
 				"support.constant.font-name",
 				"meta.separator.markdown",
 				"markup.inserted.math.display.markdown"
@@ -273,7 +271,9 @@
 				"variable.language",
 				"entity.other.attribute-name",
 				"string.unquoted.html",
-				"meta.object"
+				"meta.object",
+				"constant.other",
+				"variable.other.constant"
 			],
 			"settings": {
 				"foreground": "#9de19d"

@@ -22,7 +22,5 @@
   * Also Python variables wouldn't use the color on variables
   * Go would only use it when you initualize the variable
   * I tried to find another tan to replace it but they either didn't look tan or they conflicted with the brown or orange so I thought it'd be best to just remove it all together
-* Added color to JavaScript constants to match python constant variables
-* Made all built in constants purple and all created constants yellow
   * Had some confusion with how they were colored
 * Made meta objects light green instead of purple to prevent confusion with built in constants
