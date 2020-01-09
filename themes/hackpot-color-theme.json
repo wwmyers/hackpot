@@ -186,7 +186,6 @@
 			"name": "Yellow",
 			"scope": [
 				"constant.other",
-				"constant.language",
 				"variable.other.constant",
 				"keyword.operator.ellipsis",
 				"entity.name.section.markdown"
@@ -223,7 +222,7 @@
 				"constant.other.placeholder",
 				"keyword.operator.address",
 				"constant.character.entity",
-				"meta.object",
+				"constant.language",
 				"support.constant.font-name",
 				"meta.separator.markdown",
 				"markup.inserted.math.display.markdown"
@@ -271,7 +270,8 @@
 				"variable.parameter",
 				"variable.language",
 				"entity.other.attribute-name",
-				"string.unquoted.html"
+				"string.unquoted.html",
+				"meta.object"
 			],
 			"settings": {
 				"foreground": "#9de19d"
