@@ -73,6 +73,8 @@
 		"list.inactiveSelectionBackground": "#222222",
 		"minimap.findMatchHighlight": "#9de19d",
 		"minimap.selectionHighlight": "#32CD32",
+		"notificationCenterHeader.foreground": "#32CD32",
+		"notificationCenterHeader.background": "#333333",
 		"notifications.background": "#282828",
 		"notifications.foreground": "#9de19d",
 		"panelTitle.activeBorder": "#9F6934",
@@ -186,7 +188,8 @@
 			"name": "Yellow",
 			"scope": [
 				"constant.language",
-				"entity.name.section.markdown"
+				"entity.name.section.markdown",
+				"constant.other"
 			],
 			"settings": {
 				"foreground": "#ffff4d"
@@ -272,7 +275,6 @@
 				"entity.other.attribute-name",
 				"string.unquoted.html",
 				"meta.object",
-				"constant.other",
 				"variable.other.constant"
 			],
 			"settings": {

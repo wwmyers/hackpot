@@ -1,21 +1,9 @@
 # Hackpot
-### Imagine programming in the Garden of Eden
+### A jungle theme like no other!
 ### My new favorite theme :)
 
-Preview in Go
-![hackpotgo](https://github.com/wwmyers/hackpot/raw/master/images/hackpotgo.png)
-
-Preview in Python
-![hackpotpy](https://github.com/wwmyers/hackpot/raw/master/images/hackpotpy.png)
-
-Preview in PHP
-![hackpotphp](https://github.com/wwmyers/hackpot/raw/master/images/hackpotphp.png)
-
-Preview in CSS
-![hackpotcss](https://github.com/wwmyers/hackpot/raw/master/images/hackpotcss.png)
-
-Preview in Markdown
-![hackpotmd](https://github.com/wwmyers/hackpot/raw/master/images/hackpotmd.png)
+Preview of JavaScript, HTML, & CSS
+![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpot.png)
 
 ### Note:
 
