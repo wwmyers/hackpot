@@ -187,6 +187,7 @@
 			"scope": [
 				"constant.other",
 				"constant.language",
+				"variable.other.constant",
 				"keyword.operator.ellipsis",
 				"entity.name.section.markdown"
 			],
