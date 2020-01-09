@@ -187,7 +187,6 @@
 			"scope": [
 				"constant.other",
 				"variable.other.constant",
-				"keyword.operator.ellipsis",
 				"entity.name.section.markdown"
 			],
 			"settings": {
@@ -221,6 +220,7 @@
 				"constant.character.escape",
 				"constant.other.placeholder",
 				"keyword.operator.address",
+				"keyword.operator.ellipsis",
 				"constant.character.entity",
 				"constant.language",
 				"support.constant.font-name",
@@ -239,6 +239,7 @@
 				"storage.type.function",
 				"entity.other",
 				"support.type.property-name",
+				"entity.name.tag.localname",
 				"entity.other.attribute-name.html",
 				"markup.raw.block.markdown"
 			],
@@ -267,6 +268,7 @@
 				"meta.embedded.block",
 				"meta.function-call.arguments",
 				"variable.other",
+				"variable.other.property",
 				"variable.parameter",
 				"variable.language",
 				"entity.other.attribute-name",
