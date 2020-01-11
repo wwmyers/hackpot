@@ -26,3 +26,6 @@
 * Made meta objects light green instead of purple to prevent confusion with built in constants
 * Fixed theme on notifications
 * Modified info page
+
+### Jan 11 2020
+* Changed line numbers color to comments color (felt there was no reason for the line numbers to stand out)

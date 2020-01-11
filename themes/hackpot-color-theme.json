@@ -37,8 +37,8 @@
 		"editorHoverWidget.border": "#1e621e",
 		"editorHoverWidget.foreground": "#9de19d",
 		"editorIndentGuide.background": "#282828",
-		"editorLineNumber.activeForeground": "#9de19d",
-		"editorLineNumber.foreground": "#9de19d",
+		"editorLineNumber.activeForeground": "#1e621e",
+		"editorLineNumber.foreground": "#1e621e",
 		"editorMarkerNavigationError.background": "#FF4500",
 		"editorMarkerNavigationWarning.background": "#282828",
 		"editorPane.background": "#222222",
@@ -189,7 +189,8 @@
 			"scope": [
 				"constant.language",
 				"entity.name.section.markdown",
-				"constant.other"
+				"constant.other",
+				"storage.modifier"
 			],
 			"settings": {
 				"foreground": "#ffff4d"
