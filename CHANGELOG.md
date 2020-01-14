@@ -29,3 +29,7 @@
 
 ### Jan 11 2020
 * Changed line numbers color to comments color (felt there was no reason for the line numbers to stand out)
+
+### Jan 13 2020
+* Added foreground color to the file you're in on the explorer to make it easier to see which file you're in
+* Added the theme colors to the terminal colors

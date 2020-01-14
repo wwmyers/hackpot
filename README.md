@@ -1,7 +1,10 @@
 # Hackpot
+
 ### A jungle theme like no other!
-* Tested on: JavaScript, Go, Python, C, PHP, HTML, CSS, XML, SQL, and Markdown
+
 ### My new favorite theme :)
+
+* Tested on: JavaScript, Go, Python, C, PHP, HTML, CSS, XML, SQL, and Markdown
 
 Preview of JavaScript, HTML, & CSS
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpot.png)
@@ -13,5 +16,7 @@ If you notice any languages that currently aren't supported with this theme, ple
 # Enjoy :)
 
 #### Credits:
+
 * Icon for theme is called Valley from Icon Pond at flaticon.com
+
 <!--ctrl+shift+v to preview-->

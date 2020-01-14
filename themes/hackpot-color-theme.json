@@ -1,18 +1,3 @@
-//////////////////////////
-//	Naturized Colors	//
-//////////////////////////
-// 	#1e621e green		//
-// 	#20B2AA lightblue	//
-// 	#ffff4d	yellow		//
-// 	#e15188 pink		//
-// 	#32CD32 brightgreen	//
-// 	#b366ff purple		//
-// 	#9F6934 brown		//
-// 	#268BD2 blue		//
-// 	#9de19d lightgreen	//
-// 	#ffb84d orange		//
-// 	#FF4500 redorange	//
-//////////////////////////
 {
 	"name": "Hackpot",
 	"colors": {
@@ -65,12 +50,13 @@
 		"input.foreground": "#9de19d",
 		"input.placeholderForeground": "#9de19d",
 		"list.activeSelectionBackground": "#282828",
-		"list.activeSelectionForeground": "#9de19d",
+		"list.activeSelectionForeground": "#32CD32",
 		"list.dropBackground": "#282828",
 		"list.focusBackground": "#282828",
 		"list.highlightForeground": "#32CD32",
 		"list.hoverBackground": "#282828",
 		"list.inactiveSelectionBackground": "#222222",
+		"list.inactiveSelectionForeground": "#32CD32",
 		"minimap.findMatchHighlight": "#9de19d",
 		"minimap.selectionHighlight": "#32CD32",
 		"notificationCenterHeader.foreground": "#32CD32",
@@ -106,22 +92,22 @@
 		"tab.activeForeground": "#32CD32",
 		"tab.border": "#1e621e",
 		"tab.inactiveBackground": "#222222",
-		"terminal.ansiBlack": "#073642",
-		"terminal.ansiRed": "#dc322f",
-		"terminal.ansiGreen": "#859900",
-		"terminal.ansiYellow": "#b58900",
-		"terminal.ansiBlue": "#268bd2",
-		"terminal.ansiMagenta": "#d33682",
-		"terminal.ansiCyan": "#2aa198",
-		"terminal.ansiWhite": "#839496",
-		"terminal.ansiBrightBlack": "#586e75",
-		"terminal.ansiBrightRed": "#cb4b16",
-		"terminal.ansiBrightGreen": "#859900",
-		"terminal.ansiBrightYellow": "#657b83",
-		"terminal.ansiBrightBlue": "#839496",
-		"terminal.ansiBrightMagenta": "#6c71c4",
-		"terminal.ansiBrightCyan": "#93a1a1",
-		"terminal.ansiBrightWhite": "#839496",
+		"terminal.ansiBlack": "#282828",
+		"terminal.ansiRed": "#cc3600",
+		"terminal.ansiGreen": "#1e621e",
+		"terminal.ansiYellow": "#ffff99",
+		"terminal.ansiBlue": "#268BD2",
+		"terminal.ansiMagenta": "#9933ff",
+		"terminal.ansiCyan": "#1b9891",
+		"terminal.ansiWhite": "#9de19d",
+		"terminal.ansiBrightBlack": "#333333",
+		"terminal.ansiBrightRed": "#FF4500",
+		"terminal.ansiBrightGreen": "#32CD32",
+		"terminal.ansiBrightYellow": "#ffff1a",
+		"terminal.ansiBrightBlue": "#20B2AA",
+		"terminal.ansiBrightMagenta": "#b366ff",
+		"terminal.ansiBrightCyan": "#00ffff",
+		"terminal.ansiBrightWhite": "#c4edc4",
 		"terminal.foreground": "#9de19d",
 		"tree.indentGuidesStroke": "#282828"
 	},
@@ -281,6 +267,6 @@
 			"settings": {
 				"foreground": "#9de19d"
 			}
-		},
+		}
 	]
 }
