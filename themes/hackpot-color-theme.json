@@ -175,7 +175,7 @@
 			"scope": [
 				"constant.language",
 				"entity.name.section.markdown",
-				"constant.other",
+				"constant.other.color",
 				"storage.modifier"
 			],
 			"settings": {
@@ -262,6 +262,7 @@
 				"entity.other.attribute-name",
 				"string.unquoted.html",
 				"meta.object",
+				"constant.other",
 				"variable.other.constant"
 			],
 			"settings": {
