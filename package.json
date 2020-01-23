@@ -1,8 +1,8 @@
 {
     "name": "hackpot",
-    "version": "0.12.0",
+    "version": "0.13.0",
     "displayName": "Hackpot",
-    "description": "Welcome to the jungle!",
+    "description": "A nature theme like no other!",
     "publisher": "wwmyers",
     "repository": "https://github.com/wwmyers/hackpot",
     "license": "MIT",

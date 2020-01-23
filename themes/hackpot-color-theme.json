@@ -1,7 +1,7 @@
 {
 	"name": "Hackpot",
 	"colors": {
-		"activityBarBadge.background": "#222222",
+		"activityBarBadge.background": "#1e621e",
 		"activityBar.activeBorder": "#9F6934",
 		"activityBar.activeBackground": "#282828",
 		"activityBar.background": "#222222",
@@ -152,7 +152,8 @@
 				"support.class.builtin",
 				"variable.other.property",
 				"keyword.other.unit",
-				"markup.list"
+				"markup.list",
+				"string.other.link.title"
 			],
 			"settings": {
 				"foreground": "#32CD32"
@@ -171,15 +172,17 @@
 			}
 		},
 		{
-			"name": "Yellow",
+			"name": "Purple",
 			"scope": [
 				"constant.language",
+				"variable.language.this",
 				"entity.name.section.markdown",
-				"constant.other.color",
+				"support.constant.font-name",
+				"support.constant.color",
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#ffff4d"
+				"foreground": "#b366ff"
 			}
 		},
 		{
@@ -197,26 +200,31 @@
 				"string.quoted",
 				"punctuation.definition.string",
 				"markup.fenced_code.block.markdown",
-				"string.template"
+				"string.template",
+				"markup.inline.raw.string"
 			],
 			"settings": {
 				"foreground": "#20B2AA"
 			}
 		},
 		{
-			"name": "Purple",
+			"name": "Yellow",
 			"scope": [
 				"constant.character.escape",
 				"constant.other.placeholder",
+				"constant.character.entity",
+				"keyword.operator.new",
+				"keyword.operator.spread",
+				"keyword.operator.rest",
 				"keyword.operator.address",
 				"keyword.operator.ellipsis",
-				"constant.character.entity",
-				"support.constant.font-name",
+				"punctuation.vararg-ellipses",
 				"meta.separator.markdown",
-				"markup.inserted.math.display.markdown"
+				"markup.inserted.math.display.markdown",
+				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#b366ff"
+				"foreground": "#ffff4d"
 			}
 		},
 		{
@@ -229,7 +237,8 @@
 				"support.type.property-name",
 				"entity.name.tag.localname",
 				"entity.other.attribute-name.html",
-				"markup.raw.block.markdown"
+				"markup.raw.block.markdown",
+				"keyword.operator.expression"
 			],
 			"settings": {
 				"foreground": "#9F6934"
@@ -244,7 +253,7 @@
 				"constant.character",
 				"markup.heading.setext",
 				"punctuation.definition.list",
-				"storage.type.function.arrow"
+				"storage.type.function.arrow",
 			],
 			"settings": {
 				"foreground": "#ffb84d"

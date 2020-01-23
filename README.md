@@ -1,6 +1,6 @@
 # Hackpot
 
-### A jungle theme like no other!
+### Imagine programming in the Garden of Eden!
 
 ### My new favorite theme :)
 

@@ -2,19 +2,21 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
-### Jan 01 2020
-* Born!
+### Jan 23 2020
+* Added a little more functionality to a few languages to match others
+* Switched the colors yellow and purple
+  * Seems to help pop out the key items better since yellow and orange are fairly similar
+  * Certain file types barely used purple, and since I like purple better than yellow, I switched them lol
+* Think I'm done switching around colors
+  * If I add more color functionality, it'll be from new features I haven't played with yet that has no color highlighting
+  * I will still look for other languages to add more support
 
-### Jan 02 2020
-* Fixed credit link for icon
-* Modified preview
-* Started using changelog for updates
+### Jan 13 2020
+* Added foreground color to the file you're in on the explorer to make it easier to see which file you're in
+* Added the theme colors to the terminal colors
 
-### Jan 07 2020
-* Made attribute name in html brown instead of green to separate the colors better
-* Made lists in markdown green instead of yellow
-* Made table separators yellow instead of green
-* Added color to string literals in JS
+### Jan 11 2020
+* Changed line numbers color to comments color (felt there was no reason for the line numbers to stand out)
 
 ### Jan 09 2020
 * Removed the color tan
@@ -27,9 +29,16 @@
 * Fixed theme on notifications
 * Modified info page
 
-### Jan 11 2020
-* Changed line numbers color to comments color (felt there was no reason for the line numbers to stand out)
+### Jan 07 2020
+* Made attribute name in html brown instead of green to separate the colors better
+* Made lists in markdown green instead of yellow
+* Made table separators yellow instead of green
+* Added color to string literals in JS
 
-### Jan 13 2020
-* Added foreground color to the file you're in on the explorer to make it easier to see which file you're in
-* Added the theme colors to the terminal colors
+### Jan 02 2020
+* Fixed credit link for icon
+* Modified preview
+* Started using changelog for updates
+
+### Jan 01 2020
+* Born!
