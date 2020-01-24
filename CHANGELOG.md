@@ -3,7 +3,8 @@
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
 ### Jan 23 2020
-* Added a little more functionality to a few languages to match others
+* Added a different color for storage type
+  * Was hard to tell which was a storage type or a function in languages like Go or C without reading through the code
 * Switched the colors yellow and purple
   * Seems to help pop out the key items better since yellow and orange are fairly similar
   * Certain file types barely used purple, and since I like purple better than yellow, I switched them lol

@@ -113,7 +113,7 @@
 	},
 	"tokenColors": [
 		{
-			"name": "Green",
+			"name": "Dark Green",
 			"scope": [
 				"comment",
 				"punctuation.definition.comment",
@@ -141,7 +141,6 @@
 				"entity.name.tag",
 				"meta.function-call",
 				"support.function",
-				"storage.type",
 				"entity.name.type",
 				"support.variable",
 				"meta.embedded.block.html",
@@ -157,6 +156,15 @@
 			],
 			"settings": {
 				"foreground": "#32CD32"
+			}
+		},
+		{
+			"name": "Light Green",
+			"scope": [
+				"storage.type"
+			],
+			"settings": {
+				"foreground": "#00b359"
 			}
 		},
 		{
@@ -264,7 +272,7 @@
 			}
 		},
 		{
-			"name": "Light Green",
+			"name": "Lighter Green",
 			"scope": [
 				"meta.embedded.block",
 				"meta.function-call.arguments",
