@@ -2,6 +2,9 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Jan 28 2020
+* Changed keyword.operator.expression color
+
 ### Jan 23 2020
 * Added a different color for storage type
   * Was hard to tell which was a storage type or a function in languages like Go or C without reading through the code

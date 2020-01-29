@@ -161,6 +161,7 @@
 		{
 			"name": "Light Green",
 			"scope": [
+				"keyword.operator.expression",
 				"storage.type"
 			],
 			"settings": {
@@ -250,7 +251,6 @@
 				"entity.name.tag.localname",
 				"entity.other.attribute-name.html",
 				"markup.raw.block.markdown",
-				"keyword.operator.expression"
 			],
 			"settings": {
 				"foreground": "#9F6934"
@@ -265,7 +265,7 @@
 				"constant.character",
 				"markup.heading.setext",
 				"punctuation.definition.list",
-				"storage.type.function.arrow",
+				"storage.type.function.arrow"
 			],
 			"settings": {
 				"foreground": "#ffb84d"
