@@ -2,6 +2,10 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Feb 1 2020
+* Slightly lightened the background colors for readability
+* Added some more functionality for Python
+
 ### Jan 28 2020
 * Changed keyword.operator.expression color
 
