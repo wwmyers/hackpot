@@ -60,7 +60,7 @@
 		"minimap.findMatchHighlight": "#9de19d",
 		"minimap.selectionHighlight": "#32CD32",
 		"notificationCenterHeader.foreground": "#32CD32",
-		"notificationCenterHeader.background": "#343434",
+		"notificationCenterHeader.background": "#303030",
 		"notifications.background": "#2a2a2a",
 		"notifications.foreground": "#9de19d",
 		"panelTitle.activeBorder": "#9F6934",
