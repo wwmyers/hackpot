@@ -2,6 +2,11 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Feb 4 2020
+* Added some more functionality for JavaScript
+  * Mostly keyword.operators that perform function like actions with punctuations to help them stand out better
+  * a lot more support for regex
+
 ### Feb 1 2020
 * Slightly lightened the background colors for readability
 * Added some more functionality for Python

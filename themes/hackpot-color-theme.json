@@ -196,7 +196,8 @@
 		{
 			"name": "Pink",
 			"scope": [
-				"constant.numeric"
+				"constant.numeric",
+				"constant.character.numeric"
 			],
 			"settings": {
 				"foreground": "#e15188"
@@ -209,7 +210,8 @@
 				"punctuation.definition.string",
 				"markup.fenced_code.block.markdown",
 				"string.template",
-				"markup.inline.raw.string"
+				"markup.inline.raw.string",
+				"string.regexp"
 			],
 			"settings": {
 				"foreground": "#20B2AA"
@@ -220,8 +222,12 @@
 			"scope": [
 				"constant.character.escape",
 				"constant.other.placeholder",
+				"constant.other.character-class",
 				"constant.character.entity",
 				"keyword.operator.new",
+				"keyword.operator.ternary",
+				"keyword.operator.quantifier",
+				"keyword.operator.negation",
 				"keyword.operator.unpacking",
 				"keyword.operator.arithmetic",
 				"keyword.operator.increment",
@@ -275,6 +281,8 @@
 			"name": "Lighter Green",
 			"scope": [
 				"meta.embedded.block",
+				"meta.assertion",
+				"meta.group.assertion",
 				"meta.function-call.arguments",
 				"variable.other",
 				"variable.other.property",
