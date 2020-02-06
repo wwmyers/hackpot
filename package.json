@@ -1,6 +1,6 @@
 {
     "name": "hackpot",
-    "version": "0.23.0",
+    "version": "0.24.0",
     "displayName": "Hackpot",
     "description": "A nature theme like no other!",
     "publisher": "wwmyers",
@@ -14,6 +14,7 @@
         "nature",
         "earth",
         "green",
+        "garden",
         "weed",
         "hacker",
         "hack",
