@@ -4,6 +4,7 @@
 
 ### Feb 6 2020
 * Modified colors in settings page to fit the theme better
+* Added color behavior descriptions on README
 
 ### Feb 4 2020
 * Added some more functionality for JavaScript

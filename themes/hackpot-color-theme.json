@@ -85,6 +85,7 @@
 		"settings.headerForeground": "#32CD32",
 		"settings.modifiedItemIndicator": "#9F6934",
 		"settings.numberInputBackground": "#2a2a2a",
+		"settings.textInputBackground": "#2a2a2a",
 		"settings.textInputForeground": "#9de19d",
 		"sideBarSectionHeader.background": "#2a2a2a",
 		"sideBarSectionHeader.foreground": "#9F6934",
