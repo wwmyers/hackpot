@@ -12,29 +12,39 @@ Preview of JavaScript, HTML, & CSS
 ### Colors and their behaviors
 
 * Lime Green
-  * used for all functions and tag names
+  * functions
+  * tag names
 * Dark Green
-  * used for comments (italic)
+  * comments (italic)
 * Light Green
-  * used for variables, identifiers, and text
+  * variables
+  * identifiers
+  * text
 * Sea Green
-  * used for object types
-* light blue
-  * used for strings and quotes
+  * object types
+* Light Blue
+  * strings
+  * quotes
 * Blue
-  * used for external links
+  * external links
 * Orange
-  * used for brackets, punctuations, and logical operators
+  * brackets
+  * punctuations
+  * logical operators
 * Yellow
-  * used for identifying certain punctuation combos that have function like actions and css color codes
+  * identifies certain punctuation combos that have function like actions
+  * css color codes
 * Hot Pink
-  * used for numbers and numerics operators
+  * numbers
+  * numerics operators
 * Purple
-  * used for built in variable language and constant language
+  * built in variable language
+  * built in constant language
 * Brown
-  * used for storage types and entity names
+  * storage types
+  * entity names
 * Red Orange
-  * used for invalid operations
+  * invalid operations
 
 ### Note:
 
