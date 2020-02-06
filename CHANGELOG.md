@@ -2,6 +2,9 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Feb 6 2020
+* Modified colors in settings page to fit the theme better
+
 ### Feb 4 2020
 * Added some more functionality for JavaScript
   * Mostly keyword.operators that perform function like actions with punctuations to help them stand out better

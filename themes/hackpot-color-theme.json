@@ -79,6 +79,13 @@
 		"scrollbarSlider.activeBackground": "#2a2a2a",
 		"scrollbarSlider.background": "#2a2a2a",
 		"scrollbarSlider.hoverBackground": "#2a2a2a",
+		"settings.checkboxBorder": "#1e621e",
+		"settings.checkboxForeground": "#9de19d",
+		"settings.dropdownForeground": "#9de19d",
+		"settings.headerForeground": "#32CD32",
+		"settings.modifiedItemIndicator": "#9F6934",
+		"settings.numberInputBackground": "#2a2a2a",
+		"settings.textInputForeground": "#9de19d",
 		"sideBarSectionHeader.background": "#2a2a2a",
 		"sideBarSectionHeader.foreground": "#9F6934",
 		"sideBarTitle.foreground": "#32CD32",
@@ -159,7 +166,7 @@
 			}
 		},
 		{
-			"name": "Light Green",
+			"name": "Sea Green",
 			"scope": [
 				"storage.type"
 			],
@@ -278,7 +285,7 @@
 			}
 		},
 		{
-			"name": "Lighter Green",
+			"name": "Light Green",
 			"scope": [
 				"meta.embedded.block",
 				"meta.assertion",
