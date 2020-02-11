@@ -78,8 +78,8 @@
 		"progressBar.background": "#1e621e",
 		"selection.background": "#2a2a2a",
 		"scrollbarSlider.activeBackground": "#2a2a2a",
-		"scrollbarSlider.background": "#2a2a2a",
-		"scrollbarSlider.hoverBackground": "#2a2a2a",
+		"scrollbarSlider.background": "#303030",
+		"scrollbarSlider.hoverBackground": "#353535",
 		"settings.checkboxBorder": "#1e621e",
 		"settings.checkboxForeground": "#9de19d",
 		"settings.dropdownForeground": "#9de19d",
@@ -137,6 +137,7 @@
 			"name": "Red Orange",
 			"scope": [
 				"markup.deleted",
+				"support.type.exception",
 				"token.error-token"
 			],
 			"settings": {
@@ -220,8 +221,7 @@
 				"punctuation.definition.string",
 				"markup.fenced_code.block.markdown",
 				"string.template",
-				"markup.inline.raw.string",
-				"string.regexp"
+				"markup.inline.raw.string"
 			],
 			"settings": {
 				"foreground": "#20B2AA"

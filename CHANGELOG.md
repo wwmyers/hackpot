@@ -2,6 +2,10 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Feb 10 2020
+* Added color red orange for support.type.exception
+  * Figured if you're going to toy with how errors are handled, it'd be best to spot them out easily
+
 ### Feb 6 2020
 * Modified colors in settings page to fit the theme better
 * Added color behavior descriptions on README
@@ -9,11 +13,11 @@
 ### Feb 4 2020
 * Added some more functionality for JavaScript
   * Mostly keyword.operators that perform function like actions with punctuations to help them stand out better
-  * a lot more support for regex
+  * Added more support for regex
 
 ### Feb 1 2020
 * Slightly lightened the background colors for readability
-* Added some more functionality for Python
+* Added more functionality for Python
 
 ### Jan 28 2020
 * Changed keyword.operator.expression color
