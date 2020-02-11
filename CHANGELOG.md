@@ -5,6 +5,7 @@
 ### Feb 10 2020
 * Added color red orange for support.type.exception
   * Figured if you're going to toy with how errors are handled, it'd be best to spot them out easily
+* Brightened the scrollbar to make easier to see 
 
 ### Feb 6 2020
 * Modified colors in settings page to fit the theme better
