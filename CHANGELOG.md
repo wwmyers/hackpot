@@ -5,7 +5,7 @@
 ### Feb 11 2020
 * Changed variable language this and self to light red instead of purple
   * Thought it would be better to separate booleons and these keywords
-  * Also thought adding red would be a nice touch, red is a common flower color so why not lol
+  * Also thought adding red would be a nice touch since red is a common flower color
 
 ### Feb 10 2020
 * Added color red orange for support.type.exception

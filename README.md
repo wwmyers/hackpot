@@ -43,6 +43,8 @@ Preview of JavaScript, HTML, & CSS
 * Brown
   * storage types
   * entity names
+* Light Red
+  * Scope keywords like this and self
 * Red Orange
   * invalid operations
 
