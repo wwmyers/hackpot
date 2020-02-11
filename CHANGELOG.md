@@ -2,6 +2,11 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Feb 11 2020
+* Changed variable language this and self to light red instead of purple
+  * Thought it would be better to separate booleons and these keywords
+  * Also thought adding red would be a nice touch, red is a common flower color so why not lol
+
 ### Feb 10 2020
 * Added color red orange for support.type.exception
   * Figured if you're going to toy with how errors are handled, it'd be best to spot them out easily

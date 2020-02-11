@@ -141,7 +141,17 @@
 				"token.error-token"
 			],
 			"settings": {
-				"foreground": "#FF4500"
+				"foreground": "#e64d00"
+			}
+		},
+		{
+			"name": "Light Red",
+			"scope": [
+				"variable.language.special",
+				"variable.language.this"
+			],
+			"settings": {
+				"foreground": "#ff704d"
 			}
 		},
 		{
@@ -193,8 +203,6 @@
 			"name": "Purple",
 			"scope": [
 				"constant.language",
-				"variable.language.this",
-				"variable.language.special",
 				"entity.name.section.markdown",
 				"support.constant.font-name",
 				"support.constant.color",
