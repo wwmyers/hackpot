@@ -1,6 +1,6 @@
 # Hackpot
 
-### Imagine programming in the Garden of Eden!
+### Imagine programming in the Garden of Eden
 
 ### My new favorite theme :)
 
@@ -38,7 +38,6 @@ Preview of JavaScript, HTML, & CSS
   * numbers
   * numerics operators
 * Purple
-  * built in variable language
   * built in constant language
 * Brown
   * storage types
@@ -50,7 +49,7 @@ Preview of JavaScript, HTML, & CSS
 
 ### Note:
 
-If you notice any languages that currently aren't supported with this theme, please post the languages on my repo or ask for them in my Q&A, and I'll gladly add it.
+If you notice any languages that currently lack support from this theme, please post the languages on my repo and I'll gladly add it.
 
 # Enjoy :)
 

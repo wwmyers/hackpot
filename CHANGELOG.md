@@ -2,6 +2,10 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Feb 13 2020
+* Added support for new feature folded code highlighting
+* Minor info improvements
+
 ### Feb 11 2020
 * Changed variable language this and self to light red instead of purple
   * Thought it would be better to separate booleons and these keywords
