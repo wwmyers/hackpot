@@ -2,6 +2,9 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Feb 18 2020
+* Made parameters a little darker just to separate them from variables
+
 ### Feb 13 2020
 * Added support for new feature folded code highlighting
 * Minor info improvements

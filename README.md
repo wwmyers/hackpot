@@ -20,6 +20,8 @@ Preview of JavaScript, HTML, & CSS
   * variables
   * identifiers
   * text
+* Mint
+  * parameters
 * Sea Green
   * object types
 * Light Blue
@@ -49,7 +51,7 @@ Preview of JavaScript, HTML, & CSS
 
 ### Note:
 
-If you notice any languages that currently lack support from this theme, please post the languages on my repo and I'll gladly add it.
+If you notice any languages that currently lack support from this theme, please post the languages on my repo with an example of where you found the problem, and I'll gladly add it.
 
 # Enjoy :)
 

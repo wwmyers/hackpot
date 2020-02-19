@@ -316,6 +316,15 @@
 			"settings": {
 				"foreground": "#9de19d"
 			}
+		},
+		{
+			"name": "Mint",
+			"scope": [
+				"variable.parameter"
+			],
+			"settings": {
+				"foreground": "#76d576"
+			}
 		}
 	]
 }
