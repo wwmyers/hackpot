@@ -2,6 +2,12 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Feb 25 2020
+* Lightened the text, variable, and sidebar foreground color 5%
+  * Surprised me by making things easier to read
+* Darkened breadcrumbs color 10%
+  * Made it less distracting
+
 ### Feb 18 2020
 * Made parameters a little darker just to separate them from variables
 
