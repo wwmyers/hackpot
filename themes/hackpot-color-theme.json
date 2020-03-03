@@ -24,7 +24,7 @@
 		"editorIndentGuide.background": "#2a2a2a",
 		"editorLineNumber.activeForeground": "#32CD32",
 		"editorLineNumber.foreground": "#1e621e",
-		"editorMarkerNavigationError.background": "#FF4500",
+		"editorMarkerNavigationError.background": "#ff661a",
 		"editorMarkerNavigationWarning.background": "#2a2a2a",
 		"editorPane.background": "#252525",
 		"editorSuggestWidget.selectedBackground": "#303030",
@@ -103,7 +103,7 @@
 		"tab.border": "#1e621e",
 		"tab.inactiveBackground": "#252525",
 		"terminal.ansiBlack": "#2a2a2a",
-		"terminal.ansiRed": "#cc3600",
+		"terminal.ansiRed": "#ff704d",
 		"terminal.ansiGreen": "#1e621e",
 		"terminal.ansiYellow": "#ffff99",
 		"terminal.ansiBlue": "#268BD2",
@@ -111,7 +111,7 @@
 		"terminal.ansiCyan": "#1b9891",
 		"terminal.ansiWhite": "#b1e7b1",
 		"terminal.ansiBrightBlack": "#303030",
-		"terminal.ansiBrightRed": "#FF4500",
+		"terminal.ansiBrightRed": "#ff661a",
 		"terminal.ansiBrightGreen": "#32CD32",
 		"terminal.ansiBrightYellow": "#ffff1a",
 		"terminal.ansiBrightBlue": "#20B2AA",
@@ -142,7 +142,7 @@
 				"token.error-token"
 			],
 			"settings": {
-				"foreground": "#e64d00"
+				"foreground": "#ff661a"
 			}
 		},
 		{
@@ -220,7 +220,7 @@
 				"constant.character.numeric"
 			],
 			"settings": {
-				"foreground": "#e15188"
+				"foreground": "#e56697"
 			}
 		},
 		{

@@ -2,6 +2,9 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Mar 3 2020
+* Adjusted hot pink and red orange to make them a lil easier on the eyes
+
 ### Feb 25 2020
 * Lightened the text, variable, and sidebar foreground color 5%
   * Surprised me by making things easier to read
