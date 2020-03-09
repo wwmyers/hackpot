@@ -2,6 +2,10 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Mar 9 2020
+* Minor eye friendly changes
+* Small change on theme description
+
 ### Mar 3 2020
 * Adjusted hot pink and red orange to make them a lil easier on the eyes
 

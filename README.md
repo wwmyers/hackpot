@@ -34,7 +34,7 @@ Preview of JavaScript, HTML, & CSS
   * punctuations
   * logical operators
 * Yellow
-  * identifies certain punctuation combos that have function like actions
+  * keword operators
   * css color codes
 * Hot Pink
   * numbers
@@ -48,6 +48,7 @@ Preview of JavaScript, HTML, & CSS
   * Scope keywords like this and self
 * Red Orange
   * invalid operations
+  * error mods
 
 ### Note:
 

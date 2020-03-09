@@ -114,7 +114,7 @@
 		"terminal.ansiBrightRed": "#ff661a",
 		"terminal.ansiBrightGreen": "#32CD32",
 		"terminal.ansiBrightYellow": "#ffff1a",
-		"terminal.ansiBrightBlue": "#20B2AA",
+		"terminal.ansiBrightBlue": "#1fada6",
 		"terminal.ansiBrightMagenta": "#b366ff",
 		"terminal.ansiBrightCyan": "#00ffff",
 		"terminal.ansiBrightWhite": "#c4edc4",
@@ -233,7 +233,7 @@
 				"markup.inline.raw.string"
 			],
 			"settings": {
-				"foreground": "#20B2AA"
+				"foreground": "#1fada6"
 			}
 		},
 		{
