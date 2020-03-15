@@ -2,6 +2,9 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Mar 15 2020
+* Fixed a typo on the info page lol
+
 ### Mar 9 2020
 * Minor eye friendly changes
 * Small change on theme description

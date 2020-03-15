@@ -20,7 +20,7 @@ Preview of JavaScript, HTML, & CSS
   * variables
   * identifiers
   * text
-* Mint
+* Mint Green
   * parameters
 * Sea Green
   * object types
@@ -34,18 +34,18 @@ Preview of JavaScript, HTML, & CSS
   * punctuations
   * logical operators
 * Yellow
-  * keword operators
+  * keyword operators
   * css color codes
 * Hot Pink
   * numbers
-  * numerics operators
+  * numeric operators
 * Purple
   * built in constant language
 * Brown
   * storage types
   * entity names
 * Light Red
-  * Scope keywords like this and self
+  * scope keywords like this and self
 * Red Orange
   * invalid operations
   * error mods
