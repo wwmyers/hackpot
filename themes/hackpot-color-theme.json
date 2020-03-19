@@ -275,7 +275,7 @@
 				"support.type.property-name",
 				"entity.name.tag.localname",
 				"entity.other.attribute-name.html",
-				"markup.raw.block.markdown",
+				"markup.raw.block.markdown"
 			],
 			"settings": {
 				"foreground": "#9F6934"

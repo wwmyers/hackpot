@@ -3,8 +3,11 @@
 ### Imagine programming in the Garden of Eden
 
 ### My new favorite theme :)
-
-* Tested on: JavaScript, Go, Python, C, PHP, HTML, CSS, XML, SQL, and Markdown
+* Theme Options
+  * Hackpot
+  * Hackpot Darker
+* Tested On
+  * JavaScript, Go, Python, C, PHP, HTML, CSS, XML, SQL, and Markdown
 
 Preview of JavaScript, HTML, & CSS
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpot.png)

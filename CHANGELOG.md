@@ -2,6 +2,11 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Mar 19 2020
+* A request for a darker background option was made, so I made it :)
+  * I still have the standard option
+  * To choose darker option, go to change color theme to Hackpot Darker
+
 ### Mar 15 2020
 * Fixed a typo on the info page lol
 
