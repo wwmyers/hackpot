@@ -6,6 +6,8 @@
 * A request for a darker background option was made, so I made it :)
   * I still have the standard option
   * To choose darker option, go to change color theme to Hackpot Darker
+* Brightened the find highlight color
+  * Was a bit hard to see the highlight of nonselected items in search
 
 ### Mar 15 2020
 * Fixed a typo on the info page lol
