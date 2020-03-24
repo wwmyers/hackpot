@@ -7,6 +7,8 @@
   * Hackpot Dark (Garden of Eden at night)
   * Hackpot Under The Sea (Garden of Atlantis)
   * Hackpot Mint Chocolate (Garden dipped in chocolate)
+  * Hackpot Purple Haze (In memory of Jimi Hendrix)
+  * Hackpot Poisoned (Careful with this one)
 
 Preview of Hackpot Soft
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotsoft.png)
@@ -19,6 +21,12 @@ Preview of Hackpot Under The Sea
 
 Preview of Hackpot Mint Chocolate
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotmintchocolate.png)
+
+Preview of Hackpot Purple Haze
+![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotpurplehaze.png)
+
+Preview of Hackpot Poisoned
+![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotpoisoned.png)
 
 ### Colors and their behaviors
 

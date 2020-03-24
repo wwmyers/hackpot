@@ -8,6 +8,11 @@
   * If you like Solarized, you'll love this one
 * Added new theme option Hackpot Mint Chocolate
   * Same syntax highlighting with a brown background
+* Added new theme option Hackpot Purple Haze
+  * In memory of Jimi Hendrix
+  * Same syntax highlighting with a purple background
+* Added new theme option Hackpot Poisoned
+  * Same syntax highlighting with a green background
 * Not sure why everytime I add a new color theme option vscode kicks you out of my theme and reverts back to the default theme
   * Sorry if that drove you nuts with me adding these themes and having to reselect your theme, it annoyed the hell out of me lol
 
