@@ -6,6 +6,8 @@
 * Added new theme option Hackpot Under The Sea
   * Same syntax highlighting with a teal background
   * If you like Solarized, you'll love this one
+* Added new theme option Hackpot Mint Chocolate
+  * Same syntax highlighting with a brown background
 
 ### Mar 23 2020
 * Fixed a few small things on the Hackpot (Dark)

@@ -1,6 +1,6 @@
 {
     "name": "hackpot",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "displayName": "Hackpot",
     "description": "Nature themes like no other",
     "publisher": "wwmyers",
@@ -22,7 +22,10 @@
         "underthesea",
         "sea",
         "blue",
-        "solarized"
+        "solarized",
+        "mint",
+        "chocolate",
+        "brown"
     ],
     "icon": "images/icon.png",
     "engines": {
@@ -47,6 +50,11 @@
                 "label": "Hackpot Under The Sea",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hackpot-color-theme-under-the-sea.json"
+            },
+            {
+                "label": "Hackpot Mint Chocolate",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hackpot-color-theme-mint-chocolate.json"
             }
         ]
     }
