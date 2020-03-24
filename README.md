@@ -1,19 +1,21 @@
 # Hackpot
 
-### Imagine programming in the Garden of Eden
-
-### My new favorite theme :)
+### My new favorite themes :)
 * Theme Options
-  * Hackpot (Soft)
-  * Hackpot (Dark)
+  * Hackpot Soft (Garden of Eden at sunset)
+  * Hackpot Dark (Garden of Eden at night)
+  * Hackpot Under The Sea (Garden of Atlantis)
 * Tested On
   * JavaScript, Go, Python, C, PHP, HTML, CSS, XML, SQL, and Markdown
 
-Preview of JavaScript, HTML, & CSS in Hackpot (Soft)
+Preview of Hackpot Soft
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotsoft.png)
 
-Preview of JavaScript, HTML, & CSS in Hackpot (Dark)
+Preview of Hackpot Dark
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotdark.png)
+
+Preview of Hackpot Under The Sea
+![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotunderthesea.png)
 
 ### Colors and their behaviors
 

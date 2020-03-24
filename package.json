@@ -1,8 +1,8 @@
 {
     "name": "hackpot",
-    "version": "0.40.0",
+    "version": "1.0.0",
     "displayName": "Hackpot",
-    "description": "A nature theme like no other",
+    "description": "Nature themes like no other",
     "publisher": "wwmyers",
     "repository": "https://github.com/wwmyers/hackpot",
     "license": "MIT",
@@ -15,10 +15,14 @@
         "earth",
         "green",
         "garden",
-        "weed",
         "hacker",
         "hack",
-        "pot"
+        "pot",
+        "under the sea",
+        "underthesea",
+        "sea",
+        "blue",
+        "solarized"
     ],
     "icon": "images/icon.png",
     "engines": {
@@ -30,14 +34,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "Hackpot (Soft)",
+                "label": "Hackpot Soft",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hackpot-color-theme-soft.json"
             },
             {
-                "label": "Hackpot (Dark)",
+                "label": "Hackpot Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hackpot-color-theme-dark.json"
+            },
+            {
+                "label": "Hackpot Under The Sea",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hackpot-color-theme-under-the-sea.json"
             }
         ]
     }

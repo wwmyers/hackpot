@@ -2,6 +2,11 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Mar 24 2020
+* Added new theme option Hackpot Under The Sea
+  * Same syntax highlighting with a teal background
+  * If you like Solarized, you'll love this one
+
 ### Mar 23 2020
 * Fixed a few small things on the Hackpot (Dark)
 * Sorry for the recent file name changes, it won't happen again
