@@ -8,18 +8,20 @@
   * If you like Solarized, you'll love this one
 * Added new theme option Hackpot Mint Chocolate
   * Same syntax highlighting with a brown background
+* Not sure why everytime I add a new color theme option vscode kicks you out of my theme and reverts back to the default theme
+  * Sorry if that drove you nuts with me adding these themes and having to reselect your theme, it annoyed the hell out of me lol
 
 ### Mar 23 2020
-* Fixed a few small things on the Hackpot (Dark)
+* Fixed a few small things on the Hackpot Dark
 * Sorry for the recent file name changes, it won't happen again
   * Never planned to do multiple theme options till now :)
 * I'm also thinking of a new theme idea I'll add as a 3rd option to this theme, just configuring the colors for it
-* I decided to name standard Hackpot to Hackpot (Soft), meaning softer on the eyes
+* I decided to name standard Hackpot to Hackpot Soft, meaning softer on the eyes
 
 ### Mar 19 2020
 * A request for a darker background option was made, so I made it :)
   * I still have the standard option
-  * To choose darker option, go to change color theme to Hackpot (Dark)
+  * To choose darker option, go to change color theme to Hackpot Dark
 * Brightened the find highlight color
   * Was a bit hard to see the highlight of nonselected items in search
 

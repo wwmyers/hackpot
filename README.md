@@ -1,13 +1,12 @@
 # Hackpot
 
 ### My new favorite themes :)
+
 * Theme Options
   * Hackpot Soft (Garden of Eden at sunset)
   * Hackpot Dark (Garden of Eden at night)
   * Hackpot Under The Sea (Garden of Atlantis)
   * Hackpot Mint Chocolate (Garden dipped in chocolate)
-* Tested On
-  * JavaScript, Go, Python, C, PHP, HTML, CSS, XML, SQL, and Markdown
 
 Preview of Hackpot Soft
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotsoft.png)

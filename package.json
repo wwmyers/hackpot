@@ -1,6 +1,6 @@
 {
     "name": "hackpot",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "displayName": "Hackpot",
     "description": "Nature themes like no other",
     "publisher": "wwmyers",
@@ -25,6 +25,10 @@
         "solarized",
         "mint",
         "chocolate",
+        "mint chocolate",
+        "mintchocolate",
+        "mocha",
+        "coffee",
         "brown"
     ],
     "icon": "images/icon.png",
