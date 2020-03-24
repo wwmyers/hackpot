@@ -1,6 +1,6 @@
 {
     "name": "hackpot",
-    "version": "0.38.0",
+    "version": "0.39.0",
     "displayName": "Hackpot",
     "description": "A nature theme like no other",
     "publisher": "wwmyers",
@@ -30,14 +30,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Hackpot",
+                "label": "Hackpot (Soft)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/hackpot-color-theme.json"
+                "path": "./themes/hackpot-color-theme-soft.json"
             },
             {
-                "label": "Hackpot Darker",
+                "label": "Hackpot (Dark)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/hackpot-color-theme-darker.json"
+                "path": "./themes/hackpot-color-theme-dark.json"
             }
         ]
     }

@@ -4,13 +4,16 @@
 
 ### My new favorite theme :)
 * Theme Options
-  * Hackpot
-  * Hackpot Darker
+  * Hackpot (Soft)
+  * Hackpot (Dark)
 * Tested On
   * JavaScript, Go, Python, C, PHP, HTML, CSS, XML, SQL, and Markdown
 
-Preview of JavaScript, HTML, & CSS
-![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpot.png)
+Preview of JavaScript, HTML, & CSS in Hackpot (Soft)
+![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotsoft.png)
+
+Preview of JavaScript, HTML, & CSS in Hackpot (Dark)
+![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotdark.png)
 
 ### Colors and their behaviors
 

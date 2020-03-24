@@ -2,10 +2,13 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Mar 23 2020
+* Fixed a few small things on the Hackpot Dark
+
 ### Mar 19 2020
 * A request for a darker background option was made, so I made it :)
   * I still have the standard option
-  * To choose darker option, go to change color theme to Hackpot Darker
+  * To choose darker option, go to change color theme to Hackpot Dark
 * Brightened the find highlight color
   * Was a bit hard to see the highlight of nonselected items in search
 
