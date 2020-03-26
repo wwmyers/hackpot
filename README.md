@@ -1,14 +1,13 @@
 # Hackpot
 
-### My new favorite themes :)
+### Now with more background color options :)
 
-* Theme Options
-  * Hackpot Soft (Garden of Eden at sunset)
-  * Hackpot Dark (Garden of Eden at night)
-  * Hackpot Under The Sea (Garden of Atlantis)
-  * Hackpot Mint Chocolate (Garden dipped in chocolate)
-  * Hackpot Purple Haze (In memory of Jimi Hendrix)
-  * Hackpot Poisoned (Careful with this one)
+* Hackpot Soft (Garden of Eden at sunset)
+* Hackpot Dark (Garden of Eden at night)
+* Hackpot Under The Sea (Garden of Atlantis)
+* Hackpot Mint Chocolate (Garden dipped in chocolate)
+* Hackpot Purple Haze (In memory of Jimi Hendrix)
+* Hackpot Poisoned (Careful with this one)
 
 Preview of Hackpot Soft
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotsoft.png)

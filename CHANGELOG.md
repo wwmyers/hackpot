@@ -2,6 +2,10 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Mar 26 2020
+* Adjusted the background for Mint Chocolate, Purple Haze, and Poisoned
+  * Was a lil hard on the eyes and in my opinion they look much better lol
+
 ### Mar 24 2020
 * Added new theme option Hackpot Under The Sea
   * Same syntax highlighting with a teal background
