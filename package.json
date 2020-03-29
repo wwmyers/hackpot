@@ -1,6 +1,6 @@
 {
     "name": "hackpot",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "displayName": "Hackpot",
     "description": "Nature themes like no other",
     "publisher": "wwmyers",
@@ -22,10 +22,9 @@
         "sea",
         "blue",
         "solarized",
-        "mint",
         "chocolate",
-        "mint chocolate",
-        "mintchocolate",
+        "mud",
+        "mudslide",
         "mocha",
         "coffee",
         "brown",
@@ -48,32 +47,32 @@
             {
                 "label": "Hackpot Soft",
                 "uiTheme": "vs-dark",
-                "path": "./themes/hackpot-color-theme-soft.json"
+                "path": "./themes/hackpot-soft-color-theme.json"
             },
             {
                 "label": "Hackpot Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/hackpot-color-theme-dark.json"
+                "path": "./themes/hackpot-dark-color-theme.json"
             },
             {
                 "label": "Hackpot Under The Sea",
                 "uiTheme": "vs-dark",
-                "path": "./themes/hackpot-color-theme-under-the-sea.json"
+                "path": "./themes/hackpot-under-the-sea-color-theme.json"
             },
             {
-                "label": "Hackpot Mint Chocolate",
+                "label": "Hackpot Mudslide",
                 "uiTheme": "vs-dark",
-                "path": "./themes/hackpot-color-theme-mint-chocolate.json"
+                "path": "./themes/hackpot-mudslide-color-theme.json"
             },
             {
                 "label": "Hackpot Purple Haze",
                 "uiTheme": "vs-dark",
-                "path": "./themes/hackpot-color-theme-purple-haze.json"
+                "path": "./themes/hackpot-purple-haze-color-theme.json"
             },
             {
                 "label": "Hackpot Poisoned",
                 "uiTheme": "vs-dark",
-                "path": "./themes/hackpot-color-theme-poisoned.json"
+                "path": "./themes/hackpot-poisoned-color-theme.json"
             }
         ]
     }

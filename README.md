@@ -1,12 +1,13 @@
 # Hackpot
 
-### Now with more background color options :)
+Hackpot is a nature theme designed to give a feel of programming in a garden.
 
+### Background color options:
 * Hackpot Soft (Garden of Eden at sunset)
 * Hackpot Dark (Garden of Eden at night)
 * Hackpot Under The Sea (Garden of Atlantis)
-* Hackpot Mint Chocolate (Garden dipped in chocolate)
-* Hackpot Purple Haze (In memory of Jimi Hendrix)
+* Hackpot Mudslide (Garden on a mudslide)
+* Hackpot Purple Haze (Garden for Jimi Hendrix)
 * Hackpot Poisoned (Careful with this one)
 
 Preview of Hackpot Soft
@@ -18,8 +19,8 @@ Preview of Hackpot Dark
 Preview of Hackpot Under The Sea
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotunderthesea.png)
 
-Preview of Hackpot Mint Chocolate
-![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotmintchocolate.png)
+Preview of Hackpot Mudslide
+![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotmudslide.png)
 
 Preview of Hackpot Purple Haze
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotpurplehaze.png)

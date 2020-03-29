@@ -2,15 +2,22 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Mar 29 2020
+* Made a few minor changes on the info page
+* Changed the name to all the theme files to gain some benefits while coding in vscode
+* Changed the name to Mint Chocolate to be Mudslide
+  * More of a naturistic name
+  * Since I renamed all the theme files I figured now is a good time lol
+
 ### Mar 26 2020
-* Adjusted the background for Mint Chocolate, Purple Haze, and Poisoned
+* Adjusted the background for Mudslide, Purple Haze, and Poisoned
   * Was a lil hard on the eyes and in my opinion they look much better lol
 
 ### Mar 24 2020
 * Added new theme option Hackpot Under The Sea
   * Same syntax highlighting with a teal background
   * If you like Solarized, you'll love this one
-* Added new theme option Hackpot Mint Chocolate
+* Added new theme option Hackpot Mudslide
   * Same syntax highlighting with a brown background
 * Added new theme option Hackpot Purple Haze
   * In memory of Jimi Hendrix
@@ -21,9 +28,7 @@
   * Sorry if that drove you nuts with me adding these themes and having to reselect your theme, it annoyed the hell out of me lol
 
 ### Mar 23 2020
-* Fixed a few small things on the Hackpot Dark
-* Sorry for the recent file name changes, it won't happen again
-  * Never planned to do multiple theme options till now :)
+* Fixed a few small things on Hackpot Dark
 * I'm also thinking of a new theme idea I'll add as a 3rd option to this theme, just configuring the colors for it
 * I decided to name standard Hackpot to Hackpot Soft, meaning softer on the eyes
 
