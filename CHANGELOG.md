@@ -8,6 +8,7 @@
   * I'll keep an eye out for other features that pop up
   * Recommend using Bracket Pair Colorizer 2 while programming in Dart
     * Currently there's no syntax highlighting available for brackets otherwise
+* Added more bash support
 
 ### Mar 29 2020
 * Made a few minor changes on the info page

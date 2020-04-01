@@ -253,6 +253,8 @@
                 "keyword.operator.increment",
                 "keyword.operator.decrement",
                 "keyword.operator.channel",
+                "keyword.operator.redirect",
+                "keyword.operator.expansion",
                 "keyword.operator.spread",
                 "keyword.operator.rest",
                 "keyword.operator.address",
