@@ -169,7 +169,7 @@
 				"support.constant.property-value",
 				"string.other.link.description.markdown",
 				"support.type.property-name.json",
-				"support.class.builtin",
+				"support.class",
 				"variable.other.property",
 				"keyword.other.unit",
 				"markup.list",
@@ -229,6 +229,7 @@
 				"string.quoted",
 				"punctuation.definition.string",
 				"markup.fenced_code.block.markdown",
+				"string.interpolated",
 				"string.template",
 				"markup.inline.raw.string"
 			],

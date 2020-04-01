@@ -1,8 +1,8 @@
 # Hackpot
 
-Hackpot is a nature theme designed to give a feel of programming in a garden.
+### Hackpot is a nature theme designed to give a feel of programming in a garden.
 
-### Background color options:
+#### Background color options:
 * Hackpot Soft (Garden of Eden at sunset)
 * Hackpot Dark (Garden of Eden at night)
 * Hackpot Under The Sea (Garden of Atlantis)

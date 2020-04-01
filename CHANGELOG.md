@@ -2,6 +2,13 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Apr 1 2020
+* Added some more support for Dart
+  * Some key options aren't yet supported for Dart syntax highlighting
+  * I'll keep an eye out for other features that pop up
+  * Recommend using Bracket Pair Colorizer 2 while programming in Dart
+    * Currently there's no syntax highlighting available for brackets otherwise
+
 ### Mar 29 2020
 * Made a few minor changes on the info page
 * Changed the name to all the theme files to gain some benefits while coding in vscode
