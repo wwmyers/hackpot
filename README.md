@@ -35,4 +35,9 @@ Hackpot Poisoned
 
 # Enjoy :)
 
+#### Credits
+* Icon for themes is from iconstore.co
+  * I screenshotted it since we can't use svg file types, and changed the color to my liking
+  * Free download if interested :)
+
 <!--ctrl+shift+v to preview-->

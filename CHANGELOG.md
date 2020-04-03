@@ -10,6 +10,7 @@
   * Added tan to the nature themes since I needed one more color to match Batman vs Joker
 * Fixed some of the stuff on the info page
 * Also added a new icon for these themes
+  * Modified the credits portion of the info page
 
 ### Apr 1 2020
 * Added some more support for Dart
