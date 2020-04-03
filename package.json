@@ -1,12 +1,15 @@
 {
     "name": "hackpot",
-    "version": "1.7.0",
+    "version": "1.8.0",
     "displayName": "Hackpot",
-    "description": "Nature themes like no other",
+    "description": "Comic Book & Nature Themes",
     "publisher": "wwmyers",
     "repository": "https://github.com/wwmyers/hackpot",
     "license": "MIT",
     "keywords": [
+        "gotham",
+        "batman",
+        "joker",
         "jungle",
         "forest",
         "dark",
@@ -73,6 +76,11 @@
                 "label": "Hackpot Poisoned",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hackpot-poisoned-color-theme.json"
+            },
+            {
+                "label": "Hackpot Batman vs Joker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hackpot-batman-vs-joker-color-theme.json"
             }
         ]
     }

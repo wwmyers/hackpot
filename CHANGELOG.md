@@ -2,6 +2,12 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file.
 
+### Apr 3 2020
+* Added new theme Hackpot Batman vs Joker
+  * Vision came from the old comic books, but I combined some of the new colors as well
+  * Has improved syntax highlighting
+  * Will work on the other themes as well to give them the same scopes
+
 ### Apr 1 2020
 * Added some more support for Dart
   * Some key options aren't yet supported for Dart syntax highlighting
