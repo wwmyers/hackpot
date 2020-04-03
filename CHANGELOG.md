@@ -6,7 +6,10 @@
 * Added new theme Hackpot Batman vs Joker
   * Vision came from the old comic books, but I combined some of the new colors as well
   * Has improved syntax highlighting
-  * Will work on the other themes as well to give them the same scopes
+* Updated the other themes to have the same scopes for highlighting, not the colors
+  * Added tan to the nature themes since I needed one more color to match Batman vs Joker
+* Fixed some of the stuff on the info page
+* Also added a new icon for these themes
 
 ### Apr 1 2020
 * Added some more support for Dart

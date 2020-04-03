@@ -148,8 +148,7 @@
         {
             "name": "Light Red",
             "scope": [
-                "variable.language.special",
-                "variable.language.this"
+                "variable.language"
             ],
             "settings": {
                 "foreground": "#ff704d"
@@ -163,13 +162,9 @@
                 "meta.function-call",
                 "support.function",
                 "entity.name.type",
-                "support.variable",
                 "meta.embedded.block.html",
                 "variable.other.global",
-                "support.constant.property-value",
                 "string.other.link.description.markdown",
-                "support.type.property-name.json",
-                "support.class",
                 "variable.other.property",
                 "keyword.other.unit",
                 "markup.list",
@@ -189,6 +184,15 @@
             }
         },
         {
+            "name": "Tan",
+            "scope": [
+                "support"
+            ],
+            "settings": {
+                "foreground": "#dab38b"
+            }
+        },
+        {
             "name": "Blue",
             "scope": [
                 "meta.function.url",
@@ -205,8 +209,6 @@
             "scope": [
                 "constant.language",
                 "entity.name.section.markdown",
-                "support.constant.font-name",
-                "support.constant.color",
                 "storage.modifier"
             ],
             "settings": {
@@ -224,7 +226,7 @@
             }
         },
         {
-            "name": "Light Blue",
+            "name": "Aqua Blue",
             "scope": [
                 "string.quoted",
                 "punctuation.definition.string",
@@ -261,8 +263,7 @@
                 "keyword.operator.ellipsis",
                 "punctuation.vararg-ellipses",
                 "meta.separator.markdown",
-                "markup.inserted.math.display.markdown",
-                "constant.other.color"
+                "markup.inserted.math.display.markdown"
             ],
             "settings": {
                 "foreground": "#ffff4d"
@@ -293,7 +294,8 @@
                 "constant.character",
                 "markup.heading.setext",
                 "punctuation.definition.list",
-                "storage.type.function.arrow"
+                "storage.type.function.arrow",
+                "constant.other.color"
             ],
             "settings": {
                 "foreground": "#ffb84d"
@@ -308,7 +310,6 @@
                 "meta.function-call.arguments",
                 "variable.other",
                 "variable.other.property",
-                "variable.language",
                 "entity.other.attribute-name",
                 "string.unquoted.html",
                 "meta.object",

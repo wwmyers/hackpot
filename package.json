@@ -1,6 +1,6 @@
 {
     "name": "hackpot",
-    "version": "1.8.0",
+    "version": "1.10.0",
     "displayName": "Hackpot",
     "description": "Comic Book & Nature Themes",
     "publisher": "wwmyers",
@@ -48,6 +48,11 @@
     "contributes": {
         "themes": [
             {
+                "label": "Hackpot Batman vs Joker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hackpot-batman-vs-joker-color-theme.json"
+            },
+            {
                 "label": "Hackpot Soft",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hackpot-soft-color-theme.json"
@@ -76,11 +81,6 @@
                 "label": "Hackpot Poisoned",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hackpot-poisoned-color-theme.json"
-            },
-            {
-                "label": "Hackpot Batman vs Joker",
-                "uiTheme": "vs-dark",
-                "path": "./themes/hackpot-batman-vs-joker-color-theme.json"
             }
         ]
     }
