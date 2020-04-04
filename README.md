@@ -1,8 +1,7 @@
 # Hackpot
 
-#### Comic Book Themes
+#### Comic Book Theme
 * Hackpot Batman vs Joker (Classic meets modern)
-* more to come
 
 #### Nature Theme With 6 Background Color Options
 * Hackpot Soft (Garden of Eden at sunset)
@@ -36,8 +35,9 @@ Hackpot Poisoned
 # Enjoy :)
 
 #### Credits
-* Icon for themes is from iconstore.co
+* All themes were created by wwmyers from the ground up to be unique and functional
+* Icon is from iconstore.co
   * I screenshotted it since we can't use svg file types, and changed the color to my liking
-  * Free download if interested :)
+  * They have some free downloads if interested
 
 <!--ctrl+shift+v to preview-->
