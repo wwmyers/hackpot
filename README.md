@@ -1,36 +1,36 @@
 # Hackpot
 
 #### Comic Book Theme
-* Hackpot Batman vs Joker (Classic meets modern)
+* Hackpot Batman vs Joker (classic meets modern)
 
 #### Nature Theme With 6 Background Color Options
-* Hackpot Soft (Garden of Eden at sunset)
-* Hackpot Dark (Garden of Eden at night)
-* Hackpot Under The Sea (Garden of Atlantis)
-* Hackpot Mudslide (Garden on a mudslide)
-* Hackpot Purple Haze (Garden for Jimi Hendrix)
-* Hackpot Poisoned (Careful with this one)
+* Hackpot Garden
+* Hackpot Garden Dark
+* Hackpot Garden Of Atlantis
+* Hackpot Muddy Garden
+* Hackpot Garden Purple Haze
+* Hackpot Poisoned Garden
 
 Hackpot Batman vs Joker
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotbatmanvsjoker.png)
 
-Hackpot Soft
-![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotsoft.png)
+Hackpot Garden
+![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotgarden.png)
 
-Hackpot Dark
-![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotdark.png)
+Hackpot Garden Dark
+![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotgardendark.png)
 
-Hackpot Under The Sea
-![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotunderthesea.png)
+Hackpot Garden Of Atlantis
+![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotgardenofatlantis.png)
 
-Hackpot Mudslide
-![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotmudslide.png)
+Hackpot Muddy Garden
+![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotmuddygarden.png)
 
-Hackpot Purple Haze
-![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotpurplehaze.png)
+Hackpot Garden Purple Haze
+![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotgardenpurplehaze.png)
 
-Hackpot Poisoned
-![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotpoisoned.png)
+Hackpot Poisoned Garden
+![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotpoisonedgarden.png)
 
 # Enjoy :)
 

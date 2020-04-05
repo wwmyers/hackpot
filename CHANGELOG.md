@@ -2,6 +2,10 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file
 
+### Apr 5 2020
+* Changed the names of the nature themes for the last time
+  * Hackpot is more of a list of themes now, not really the name of my nature theme like from when I started this
+
 ### Apr 4 2020
 * Darkened the new tan color for the nature themes 5%
   * think it looks better as a tan, not so peachy
