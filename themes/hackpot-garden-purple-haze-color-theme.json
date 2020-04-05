@@ -160,7 +160,6 @@
                 "entity.name.function",
                 "entity.name.tag",
                 "meta.function-call",
-                "support.function",
                 "entity.name.type",
                 "meta.embedded.block.html",
                 "variable.other.global",

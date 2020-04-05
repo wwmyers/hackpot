@@ -6,6 +6,7 @@
 * Changed the names of the nature themes for the last time
   * Hackpot is more of a list of themes now, not really the name of my nature theme like from when I started this
 * Darkened the background of Garden Of Atlantis a lil, much better color clarity
+* Fixed a scope change that I missed when coverting to the improved highlighting syntax
 
 ### Apr 4 2020
 * Darkened the new tan color for the nature themes 5%
