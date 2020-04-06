@@ -2,6 +2,12 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file
 
+### Apr 6 2020
+* Made a few minor changes to info page and folded code background color on Batman vs Joker
+* I think I'm done making changes for awhile, so you guys can code in peace
+* I know I've made a ton of updates, which may have been frustrating, but I'm only trying to better these for all of us
+* Enjoy :)
+
 ### Apr 5 2020
 * Changed the names of the nature themes for the last time
   * Hackpot is more of a list of themes now, not really the name of my nature theme like from when I started this

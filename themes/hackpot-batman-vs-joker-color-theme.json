@@ -33,7 +33,7 @@
         "editorWidget.border": "#486484",
         "editor.background": "#21222c",
         "editor.findMatchHighlightBackground": "#363949",
-        "editor.foldBackground": "#48648420",
+        "editor.foldBackground": "#a64dff20",
         "editor.foreground": "#dde8ee",
         "editor.hoverHighlightBackground": "#2b2e3b",
         "editor.lineHighlightBackground": "#2b2e3b",
