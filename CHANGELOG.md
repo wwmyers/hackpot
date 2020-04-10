@@ -2,6 +2,10 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file
 
+### Apr 10 2020
+* Changed linebackground color on Batman vs Joker
+  * More appealing and better on the eyes :)
+
 ### Apr 6 2020
 * Made a few minor changes to info page and folded code background color on Batman vs Joker
 * I think I'm done making changes for awhile, so you guys can code in peace
