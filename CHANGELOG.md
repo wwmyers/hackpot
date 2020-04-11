@@ -2,6 +2,10 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file
 
+### Apr 11 2020
+* Fixed the line highlight issue the last update created while selecting a new theme
+  * Also adjusted it for better readability
+
 ### Apr 10 2020
 * Changed linebackground color on Batman vs Joker
   * More appealing and better on the eyes :)
