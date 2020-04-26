@@ -1,6 +1,6 @@
 {
     "name": "hackpot",
-    "version": "2.3.0",
+    "version": "2.4.0",
     "displayName": "Hackpot",
     "description": "Comic Book & Nature Themes",
     "publisher": "wwmyers",
@@ -25,6 +25,7 @@
         "solarized",
         "chocolate",
         "muddy",
+        "mud",
         "mocha",
         "coffee",
         "brown",

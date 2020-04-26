@@ -174,21 +174,21 @@
             }
         },
         {
-            "name": "Sea Green",
+            "name": "Tan",
             "scope": [
                 "storage.type"
             ],
             "settings": {
-                "foreground": "#00b359"
+                "foreground": "#d0a97c"
             }
         },
         {
-            "name": "Tan",
+            "name": "Sea Green",
             "scope": [
                 "support"
             ],
             "settings": {
-                "foreground": "#D3AF86"
+                "foreground": "#00b359"
             }
         },
         {

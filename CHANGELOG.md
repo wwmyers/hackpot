@@ -2,6 +2,10 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file
 
+### Apr 26 2020
+* Switched the tan and the sea green on the garden themes
+  * Languages like Dart that has a lot of support functions, displayed too much tan
+
 ### Apr 20 2020
 * Adjusted the tan color in the garden themes
 
