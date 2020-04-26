@@ -1,6 +1,6 @@
 {
     "name": "hackpot",
-    "version": "2.4.0",
+    "version": "2.6.0",
     "displayName": "Hackpot",
     "description": "Comic Book & Nature Themes",
     "publisher": "wwmyers",
@@ -9,6 +9,7 @@
     "keywords": [
         "gotham",
         "batman",
+        "knight",
         "joker",
         "jungle",
         "forest",
@@ -49,6 +50,11 @@
                 "label": "Hackpot Batman vs Joker",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hackpot-batman-vs-joker-color-theme.json"
+            },
+            {
+                "label": "Hackpot Dark Knight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hackpot-dark-knight-color-theme.json"
             },
             {
                 "label": "Hackpot Garden",

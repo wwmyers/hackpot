@@ -3,6 +3,9 @@
 #### All notable changes to the "Hackpot" extension will be documented in this file
 
 ### Apr 26 2020
+* Added new theme Dark Knight
+  * Same as Batman vs Joker, but with a dark blue background
+* Slightly darkened the Batman vs Joker main foreground color to be easier on the eyes
 * Switched the tan and the sea green on the garden themes
   * Languages like Dart that has a lot of support functions, displayed too much tan
 
