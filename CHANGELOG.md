@@ -2,6 +2,11 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file
 
+### Apr 27 2020
+* Added new theme Batman vs Joker Dark
+  * Saw how easy on the eyes Dark Knight was, so it inspired me :)
+  * I didn't want to replace Batman vs Joker so I added a darker option for it
+
 ### Apr 26 2020
 * Added new theme Dark Knight
   * Same as Batman vs Joker, but with a dark blue background
