@@ -2,6 +2,12 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file
 
+### Apr 30 2020
+* Fixed the tab colors for better readability
+  * The default settings for unfocused inactive tabs made it hard to read the tabs
+* Changed the color for breadcrumbs to be the same as the line numbers color
+  * Figured how often do we actually look at that, so why make it stand out lol
+
 ### Apr 27 2020
 * Added new theme Batman vs Joker Dark
   * Saw how easy on the eyes Dark Knight was, so it inspired me :)
