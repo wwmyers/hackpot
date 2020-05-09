@@ -1,6 +1,6 @@
 {
     "name": "hackpot",
-    "version": "2.8.0",
+    "version": "2.10.0",
     "displayName": "Hackpot",
     "description": "Comic Book & Nature Themes",
     "publisher": "wwmyers",
@@ -14,6 +14,7 @@
         "jungle",
         "forest",
         "dark",
+        "darker",
         "nature",
         "earth",
         "green",
@@ -62,6 +63,11 @@
                 "path": "./themes/hackpot-dark-knight-color-theme.json"
             },
             {
+                "label": "Hackpot Darker Knight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hackpot-darker-knight-color-theme.json"
+            },
+            {
                 "label": "Hackpot Garden",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hackpot-garden-color-theme.json"
@@ -77,14 +83,14 @@
                 "path": "./themes/hackpot-garden-of-atlantis-color-theme.json"
             },
             {
-                "label": "Hackpot Muddy Garden",
-                "uiTheme": "vs-dark",
-                "path": "./themes/hackpot-muddy-garden-color-theme.json"
-            },
-            {
                 "label": "Hackpot Garden Purple Haze",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hackpot-garden-purple-haze-color-theme.json"
+            },
+            {
+                "label": "Hackpot Muddy Garden",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hackpot-muddy-garden-color-theme.json"
             },
             {
                 "label": "Hackpot Poisoned Garden",

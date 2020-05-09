@@ -1,12 +1,13 @@
 # Hackpot
 
-#### Comic Book Themes
-* Hackpot Batman vs Joker (classic meets modern)
+#### Batman vs Joker Theme With 4 Background Color Options
+* Hackpot Batman vs Joker
 * Hackpot Batman vs Joker Dark
 * Hackpot Dark Knight
+* Hackpot Darker Knight
 
 #### Garden Theme With 6 Background Color Options
-* Hackpot Garden (original)
+* Hackpot Garden
 * Hackpot Garden Dark
 * Hackpot Garden Of Atlantis
 * Hackpot Muddy Garden
@@ -21,6 +22,9 @@ Hackpot Batman vs Joker Dark
 
 Hackpot Dark Knight
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotdarkknight.png)
+
+Hackpot Darker Knight
+![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotdarkerknight.png)
 
 Hackpot Garden
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotgarden.png)
@@ -41,9 +45,9 @@ Hackpot Poisoned Garden
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotpoisonedgarden.png)
 
 #### My personal favorites are :)
-1. Dark Knight
-2. Batman vs Joker Dark
-3. Garden (original)
+1. Batman vs Joker
+2. Dark Knight
+3. Garden
 4. Garden Of Atlantis
 
 # Enjoy :)

@@ -2,6 +2,12 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file
 
+### May 9 2020
+* Added new background option for Batman vs Joker called Dark Knight
+  * Same as Dark Knight was but with a lighter background
+  * Softer on the eyes
+* Renamed Dark Knight to Darker Knight
+
 ### Apr 30 2020
 * Fixed the tab colors for better readability
   * The default settings for unfocused inactive tabs made it hard to read the tabs
