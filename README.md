@@ -12,7 +12,7 @@
 * Hackpot Garden Of Atlantis
 * Hackpot Muddy Garden
 * Hackpot Garden Purple Haze
-* Hackpot Poisoned Garden
+* Hackpot Poisoned Garden*
 
 Hackpot Batman vs Joker
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotbatmanvsjoker.png)

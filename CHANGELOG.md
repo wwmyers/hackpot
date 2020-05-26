@@ -2,6 +2,14 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file
 
+### May 25 2020
+* Improved the background color for Muddy Garden
+  * Made it better on the eyes for a few of the colors
+  * Above all, in my opinion, it looks much better
+* I will be fixing Purple Haze soon as well
+  * not a big fan of how it turned out, but I like the idea of it
+  * Might change it's theme, instead of using the garden theme
+
 ### May 9 2020
 * Added new background option for Batman vs Joker called Dark Knight
   * Same as Dark Knight was but with a lighter background
