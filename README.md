@@ -6,13 +6,15 @@
 * Hackpot Dark Knight
 * Hackpot Darker Knight
 
-#### Garden Theme With 6 Background Color Options
+#### Garden Theme With 5 Background Color Options
 * Hackpot Garden
 * Hackpot Garden Dark
 * Hackpot Garden Of Atlantis
 * Hackpot Muddy Garden
-* Hackpot Garden Purple Haze
-* Hackpot Poisoned Garden*
+* Hackpot Poisoned Garden
+
+#### Purple Haze
+* Purple Haze
 
 Hackpot Batman vs Joker
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotbatmanvsjoker.png)
@@ -38,17 +40,16 @@ Hackpot Garden Of Atlantis
 Hackpot Muddy Garden
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotmuddygarden.png)
 
-Hackpot Garden Purple Haze
-![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotgardenpurplehaze.png)
-
 Hackpot Poisoned Garden
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotpoisonedgarden.png)
 
+Hackpot Purple Haze
+![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotpurplehaze.png)
+
 #### My personal favorites are :)
 1. Batman vs Joker
-2. Dark Knight
-3. Garden
-4. Garden Of Atlantis
+2. Darker Knight
+3. Garden Dark
 
 # Enjoy :)
 

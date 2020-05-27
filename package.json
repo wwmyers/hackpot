@@ -1,6 +1,6 @@
 {
     "name": "hackpot",
-    "version": "2.11.0",
+    "version": "2.12.0",
     "displayName": "Hackpot",
     "description": "Comic Book & Nature Themes",
     "publisher": "wwmyers",
@@ -83,11 +83,6 @@
                 "path": "./themes/hackpot-garden-of-atlantis-color-theme.json"
             },
             {
-                "label": "Hackpot Garden Purple Haze",
-                "uiTheme": "vs-dark",
-                "path": "./themes/hackpot-garden-purple-haze-color-theme.json"
-            },
-            {
                 "label": "Hackpot Muddy Garden",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hackpot-muddy-garden-color-theme.json"
@@ -96,6 +91,11 @@
                 "label": "Hackpot Poisoned Garden",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hackpot-poisoned-garden-color-theme.json"
+            },
+            {
+                "label": "Hackpot Purple Haze",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hackpot-purple-haze-color-theme.json"
             }
         ]
     }

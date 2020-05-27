@@ -2,6 +2,11 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file
 
+### May 27 2020
+* Changed the theme to Purple Haze
+  * It no longer uses the Garden theme
+  * Might make a few more changes later as I see things that need improved, but It's definitely better in my opinion
+
 ### May 25 2020
 * Improved the background color for Muddy Garden
   * Made it better on the eyes for a few of the colors
