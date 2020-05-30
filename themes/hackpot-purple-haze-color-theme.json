@@ -111,7 +111,7 @@
         "terminal.ansiRed": "#ff704d",
         "terminal.ansiGreen": "#1e621e",
         "terminal.ansiYellow": "#ffff33",
-        "terminal.ansiBlue": "#37a9fb",
+        "terminal.ansiBlue": "#50b4fb",
         "terminal.ansiMagenta": "#990099",
         "terminal.ansiCyan": "#1b9891",
         "terminal.ansiWhite": "#f2e6ff",
@@ -193,7 +193,7 @@
                 "support"
             ],
             "settings": {
-                "foreground": "#37a9fb"
+                "foreground": "#50b4fb"
             }
         },
         {
