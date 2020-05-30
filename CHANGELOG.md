@@ -2,6 +2,10 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file
 
+### May 30 2020
+* Dimmed the function green color on Purple Haze
+  * It overpowered the other colors making it hard on the eyes
+
 ### May 27 2020
 * Changed the theme to Purple Haze
   * It no longer uses the Garden theme

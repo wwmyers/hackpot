@@ -13,7 +13,7 @@
 * Hackpot Muddy Garden
 * Hackpot Poisoned Garden
 
-#### Purple Haze
+#### Purple Haze Theme
 * Purple Haze
 
 Hackpot Batman vs Joker
@@ -49,7 +49,7 @@ Hackpot Purple Haze
 #### My personal favorites are :)
 1. Batman vs Joker
 2. Darker Knight
-3. Garden Dark
+3. Garden
 
 # Enjoy :)
 
