@@ -2,6 +2,10 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file
 
+### Jun 7 2020
+* Small naming changes on the info page
+  * Figured I didn't need Hackpot infront of every theme option
+
 ### May 30 2020
 * Dimmed the function green and support blue colors on Purple Haze
   * They overpowered the other colors making it hard on the eyes
