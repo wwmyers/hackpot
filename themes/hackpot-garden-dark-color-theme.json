@@ -98,6 +98,8 @@
         "sideBar.foreground": "#b1e7b1",
         "statusBar.background": "#1a1a1a",
         "statusBar.foreground": "#32CD32",
+        "statusBar.noFolderBackground": "#1a1a1a",
+		"statusBar.noFolderForeground": "#32CD32",
         "tab.activeBackground": "#202020",
         "tab.activeBorder": "#9F6934",
         "tab.activeForeground": "#32CD32",

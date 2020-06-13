@@ -2,6 +2,10 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file
 
+### Jun 12 2020
+* Fixed the status bar background color when no folder is opened
+  * didn't know there was a difference from only having a file open and a folder open on status bar lol silly
+
 ### Jun 7 2020
 * Small naming changes on the info page
   * Figured I didn't need Hackpot infront of every theme option
