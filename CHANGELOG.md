@@ -2,13 +2,13 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file
 
+### Jun 30 2020
+* Slightly darkened the indention guide on most of the themes
+  * Some of the themes stood out more than others, I evened them out
+
 ### Jun 18 2020
 * Slightly darkened the background color of Garden Of Atlantis
   * Made a few colors pop out more, and it's still really easy on the eyes
-
-### Jun 12 2020
-* Fixed the status bar background color when no folder is opened
-  * didn't know there was a difference from only having a file open and a folder open on status bar lol silly
 
 ### Jun 7 2020
 * Small naming changes on the info page
