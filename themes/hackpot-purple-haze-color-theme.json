@@ -78,7 +78,7 @@
         "pickerGroup.border": "#990099",
         "pickerGroup.foreground": "#4d004d",
         "progressBar.background": "#990099",
-        "selection.background": "#4d004d",
+        "selection.background": "#990099",
         "scrollbarSlider.activeBackground": "#800080",
         "scrollbarSlider.background": "#660066",
         "scrollbarSlider.hoverBackground": "#800080",
