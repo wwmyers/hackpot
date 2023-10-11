@@ -22,7 +22,7 @@
         "editorHoverWidget.background": "#002828",
         "editorHoverWidget.border": "#1e621e",
         "editorHoverWidget.foreground": "#b1e7b1",
-        "editorIndentGuide.background": "#002828",
+        "editorIndentGuide.background1": "#002828",
         "editorLineNumber.activeForeground": "#32CD32",
         "editorLineNumber.foreground": "#1e621e",
         "editorMarkerNavigationError.background": "#ff661a",
@@ -96,6 +96,7 @@
         "sideBar.background": "#002020",
         "sideBar.border": "#1e621e",
         "sideBar.foreground": "#b1e7b1",
+        "statusBar.debuggingBackground": "#ffb84d",
         "statusBar.background": "#002020",
         "statusBar.foreground": "#32CD32",
         "statusBar.noFolderBackground": "#002020",
@@ -126,6 +127,11 @@
         "terminal.ansiBrightCyan": "#00ffff",
         "terminal.ansiBrightWhite": "#c4edc4",
         "terminal.foreground": "#b1e7b1",
+        "titleBar.activeBackground": "#002020",
+        //"titleBar.activeForeground": "#32CD32",
+        "titleBar.inactiveBackground": "#002020",
+        //"titleBar.inactiveForeground": "#32CD3290",
+        "titleBar.border": "#1e621e",
         "tree.indentGuidesStroke": "#002828"
     },
     "tokenColors": [

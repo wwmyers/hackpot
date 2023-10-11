@@ -2,6 +2,15 @@
 
 #### All notable changes to the "Hackpot" extension will be documented in this file
 
+### Oct 10 2023
+* Updated functionality for some of the new vscode features
+* Getting back into coding again, so for those of you that's stayed a fan all this time (Thanks BTW!) you're going to start seeing some more improvements on these themes again
+
+### May 16 2022
+* Edited a few page flaws to be more accurate
+* Looking into the pull request and see what updates I can make to current vscode options
+  * Sorry it's been awhile for any updates, I've been away from coding for some time now. Getting back into it. Got a few new projects in mind :)
+
 ### Jun 30 2020
 * Slightly darkened the indention guide on most of the themes
   * Some of the themes stood out more than others, I evened them out

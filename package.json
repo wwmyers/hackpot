@@ -1,8 +1,8 @@
 {
     "name": "hackpot",
-    "version": "2.18.0",
+    "version": "3.0.0",
     "displayName": "Hackpot",
-    "description": "Comic Book, Nature, & Purple Themes",
+    "description": "Batman, Garden, & Purple Themes",
     "publisher": "wwmyers",
     "repository": "https://github.com/wwmyers/hackpot",
     "license": "MIT",
@@ -20,6 +20,7 @@
         "green",
         "garden",
         "hacker",
+        "hackpot",
         "hack",
         "pot",
         "blue",
@@ -40,7 +41,7 @@
     ],
     "icon": "images/icon.png",
     "engines": {
-        "vscode": "^1.41.0"
+        "vscode": "^1.83.0"
     },
     "categories": [
         "Themes"

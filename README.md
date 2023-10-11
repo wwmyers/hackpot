@@ -47,9 +47,10 @@ Purple Haze
 ![hackpot](https://github.com/wwmyers/hackpot/raw/master/images/hackpotpurplehaze.png)
 
 #### My personal favorites are :)
-1. Batman vs Joker
-2. Darker Knight
+1. Dark Knight
+2. Batman vs Joker
 3. Garden
+4. Garden Of Atlantis
 
 # Enjoy :)
 
